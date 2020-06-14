@@ -87,3 +87,26 @@ html.dark-mode .modal-sharing .shared .modal-footer {
 html.dark-mode .sidebar-addList-fixed {
   box-shadow: 0 -1px 0 var(--grey) !important;
 }
+
+html.dark-mode #O365ShellHeader,
+html.dark-mode #O365_NavHeader,
+html.dark-mode .o365sx-appName,
+html.dark-mode .o365sx-button {
+  background-color: var(--grey) !important;
+}
+
+html.dark-mode .baseAdd, html.dark-mode .baseAdd-input {
+  color:  #f5f5f5 !important;
+}
+
+html.dark-mode .baseAdd-input::placeholder {
+  color: #a9a9 !important;
+}
+
+html.dark-mode .detailCategories-section {
+  background-color: var(--dark-grey) !important;
+}
+
+.ql-editor.ql-blank::before {
+  color: #767678;
+}

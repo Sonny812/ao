@@ -42,3 +42,27 @@ html.side-bar-hidden #container.leftColumn-overlaid #app {
     padding-left: 0px !important;
   }
 }
+
+#O365_HeaderRightRegion {
+  display: none;
+}
+
+.listItem-icon, .listItem-container.active {
+  background-color: unset !important;
+}
+
+.placeholder.empty-assigned {
+  background-color: unset !important;
+}
+
+.fontIcon {
+  color: #767678 !important;
+}
+
+.icon svg {
+  fill: #767678 !important;
+}
+
+.detailCategories-section {
+  border: none !important;
+}
