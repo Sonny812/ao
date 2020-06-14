@@ -1,6 +1,17 @@
-<h1 align="center">
+<h1> Note from the author of the fork </h1>
+
+I forked this repository because it seems to me that the original repository is abandoned.
+Here's a screenshot of a dark theme from my fork on Fedora KDE.
+
+<img src="docs/media/fork.png">
+
+Fixes for other color themes are unlikely to be added because I do not use them.
+
+------  
+
+<h2 align="center">
   <img src="docs/media/logo.png" width="20%"><br/>Ao
-</h1>
+</h2>
 
 <h4 align="center">
   Elegant Microsoft To-Do desktop app
