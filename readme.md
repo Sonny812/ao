@@ -7,6 +7,8 @@ Here's a screenshot of a dark theme from my fork on Fedora KDE.
 
 Fixes for other color themes are unlikely to be added because I do not use them.
 
+Fork build status: [![Build Status](https://travis-ci.com/Sonny812/ao.svg?branch=master)](https://travis-ci.com/Sonny812/ao)
+
 ------  
 
 <h2 align="center">
