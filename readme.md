@@ -9,6 +9,10 @@ Fixes for other color themes are unlikely to be added because I do not use them.
 
 Fork build status: [![Build Status](https://travis-ci.com/Sonny812/ao.svg?branch=master)](https://travis-ci.com/Sonny812/ao)
 
+## Features added in that fork:
+1. Fix some UI bugs in the dark theme. 
+2. [Fix "ctrl + shift" electron bug](https://github.com/Sonny812/ao/pull/1).
+
 ------  
 
 <h2 align="center">

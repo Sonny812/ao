@@ -1,7 +1,7 @@
 {
   "name": "ao",
   "productName": "Ao",
-  "version": "6.9.0",
+  "version": "7.0.0",
   "description": "Elegant Microsoft To-Do desktop app",
   "license": "MIT",
   "repository": "klaussinani/ao",
@@ -15,6 +15,11 @@
       "name": "Mario Sinani",
       "email": "mariosinani@protonmail.ch",
       "url": "https://github.com/mariosinani"
+    },
+    {
+      "name": "Nikolay Mikhaylov",
+      "email": "sonny@milton.pro",
+      "url": "https://github.com/Sonny812"
     }
   ],
   "scripts": {
