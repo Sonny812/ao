@@ -193,6 +193,7 @@ module.exports = {
       }
     }, {
       label: 'Exit',
+      accelerator: 'CmdorCtrl+Q',
       visible: !is.darwin,
       click() {
         dialog.confirmExit();
