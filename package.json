@@ -38,7 +38,7 @@
   },
   "devDependencies": {
     "electron": "4.2.2",
-    "electron-builder": "^21.1.1",
+    "electron-builder": "^22.0",
     "stylelint": "^9.9.0",
     "xo": "*"
   },
