@@ -25,7 +25,8 @@
   "scripts": {
     "postinstall": "electron-builder install-app-deps",
     "test": "xo && stylelint 'src/style/*.css'",
-    "release": "build --publish always",
+    "build": "electron-builder build",
+    "release": "electron-builder build --publish always",
     "start": "electron ."
   },
   "dependencies": {
@@ -37,7 +38,7 @@
   },
   "devDependencies": {
     "electron": "4.2.2",
-    "electron-builder": "20.40.2",
+    "electron-builder": "^21.1.1",
     "stylelint": "^9.9.0",
     "xo": "*"
   },
