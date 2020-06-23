@@ -12,6 +12,8 @@ Fork build status: [![Build Status](https://travis-ci.com/Sonny812/ao.svg?branch
 ## Features added in that fork:
 1. Fix some UI bugs in the dark theme. 
 2. [Fix "ctrl + shift" electron bug](https://github.com/Sonny812/ao/pull/1).
+3. [Add "CtrlorCmd+Q" shortcut to quit](https://github.com/Sonny812/ao/pull/2).
+4. [Update electron-builder](https://github.com/Sonny812/ao/pull/3).
 
 ------  
 
