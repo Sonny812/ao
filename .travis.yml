@@ -24,7 +24,7 @@ cache:
 script:
   - |
     if [ "$TRAVIS_OS_NAME" == "linux" ]; then
-      yarn release --linux --win"
+      yarn release --linux --win
     else
       yarn release
     fi
